@@ -1,0 +1,45 @@
+{
+  "name": "WownowVendor",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@mapbox/polyline": "^1.1.0",
+    "@react-native-community/async-storage": "^1.4.2",
+    "@react-native-community/netinfo": "^3.2.0",
+    "base-64": "^0.1.0",
+    "native-base": "^2.12.1",
+    "react": "16.8.3",
+    "react-native": "0.59.8",
+    "react-native-action-button": "^2.8.5",
+    "react-native-customisable-switch": "^0.1.0",
+    "react-native-firebase": "^5.4.0",
+    "react-native-floating-label-text-input": "^0.1.5",
+    "react-native-floating-labels": "^1.1.9",
+    "react-native-gesture-handler": "^1.2.1",
+    "react-native-image-picker": "^0.28.1",
+    "react-native-item-select": "^0.3.0",
+    "react-native-linear-gradient": "^2.5.6",
+    "react-native-maps": "^0.24.2",
+    "react-native-maps-directions": "^1.7.0",
+    "react-native-snap-carousel": "^3.8.1",
+    "react-native-table-component": "^1.2.0",
+    "react-native-vector-icons": "^6.6.0",
+    "react-navigation": "^3.11.0",
+    "toggle-switch-react-native": "^2.1.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/runtime": "^7.4.5",
+    "babel-jest": "^24.8.0",
+    "jest": "^24.8.0",
+    "metro-react-native-babel-preset": "^0.54.1",
+    "react-test-renderer": "16.8.3"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

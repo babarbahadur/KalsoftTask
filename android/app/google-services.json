@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "81732792857",
+    "firebase_url": "https://wownow-33bc7.firebaseio.com",
+    "project_id": "wownow-33bc7",
+    "storage_bucket": "wownow-33bc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81732792857:android:40b257c2755aa204",
+        "android_client_info": {
+          "package_name": "com.wownow.vendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81732792857-9mbu268rdi8f8b6e2eih0j0coal5iqsr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXFgU0dQ1TcBV-6CUfZrXltcmPTS-pwpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81732792857-9mbu268rdi8f8b6e2eih0j0coal5iqsr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
